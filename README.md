@@ -30,6 +30,8 @@ Golang_Discovery from [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
 ### Golang Study
 
 1. To learning fundamentals.
+   - Comments
+   - Operators and punctuation
    - Output and Input value
    - Save value ( Variable and Constant)
      - Type Number and String
@@ -37,19 +39,18 @@ Golang_Discovery from [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
      - Type Object Literal
      - Display type
    - Scope
-   - Comments
-2. Number Manipulation
+3. Number Manipulation
    - Arithmetics operators
    - Increment and Decrement operators
    - Atribuite operators
    - Comparation operators
    - Logic Operators
-3. String Manipulation
+4. String Manipulation
    - Aspas duplas e Aspas Simples
    - Concatenação
-4. Array Manipulation
-5. Object Manipulation
-6. POO
+5. Array Manipulation
+6. Object Manipulation
+7. POO
 
 
 ### Projects
